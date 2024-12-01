@@ -1,7 +1,6 @@
 ## Hi, there! ✨
 
-<img align="right" width="420" height="230" alt="GIF" src="https://github.com/user-attachments/assets/254c258e-c55e-4331-8b7d-4c225fbf75eb)"/>
-
+<img align="right" width="420" height="230" alt="GIF" ![readme](https://github.com/user-attachments/assets/254c258e-c55e-4331-8b7d-4c225fbf75eb)>
 - 🌸 Primarily known as Lily.
 - 💡 Passionate about learning new skills and putting them to use.
 - 🩷 Fun fact: I always have my nose in a book. *Always.*
