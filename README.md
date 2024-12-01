@@ -1,7 +1,7 @@
 ## Hi, there! ✨
 
 <div style="overflow: hidden;">
-    <img align="right" width="4300" height="218" alt="GIF" src="[https://giffiles.alphacoders.com/610/61072.gif](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)"/>
+    <img align="right" width="4300" height="218" alt="GIF" src="(https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)"/>
     <div>
 
 - 🌸 Primarily known as Lily.
