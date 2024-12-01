@@ -1,6 +1,6 @@
 ## Hi, there! ✨
 
-<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://www.artstation.com/artwork/QrDnmE)">
+<img align="right" width="100" height="100" src="(https://www.artstation.com/artwork/QrDnmE)">
 
 - 🌸 Primarily known as Lily.
 - 💡 Passionate about learning new skills and putting them to use.
