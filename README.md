@@ -1,4 +1,4 @@
-## Hi, there! ✨
+## Hi, there! 💋
 
 <div style="overflow: hidden;">
     <img align="right" width="480" height="300" alt="GIF" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"  alt="ERROR">
