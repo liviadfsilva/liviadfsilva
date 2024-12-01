@@ -1,8 +1,8 @@
 ## Hi, there! ✨
 
-<div style="overflow: hidden;">
-    <img align="right" width="4300" height="218" alt="GIF" src="(https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)"/>
-    <div>
+<div align="right"> 
+<img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
+</div> 
 
 - 🌸 Primarily known as Lily.
 - 💡 Passionate about learning new skills and putting them to use.
