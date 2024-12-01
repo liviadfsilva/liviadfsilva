@@ -1,6 +1,6 @@
 ## Hi, there! ✨
 
-![readme](https://github.com/user-attachments/assets/d7289dca-abc6-4333-89ae-4d145b183dee)
+<img align="right" width="440" height="238" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
 
 - 🌸 Primarily known as Lily.
 - 💡 Passionate about learning new skills and putting them to use.
