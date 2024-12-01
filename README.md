@@ -4,8 +4,9 @@
     <img align="right" width="480" height="300" alt="GIF" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"  alt="ERROR">
 
 - 🌸 Primarily known as Lily.
+- 📚 Software Development Student
 - 💡 Passionate about learning new skills and putting them to use.
-- 🩷 Fun fact: I always have my nose in a book. *Always.*
+- 📍 Somewhere cozy, sipping tea and reading a book.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
