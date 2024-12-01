@@ -1,6 +1,6 @@
 ## Hi, there! ✨
 
-<img align="right" width="300" height="300" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
+<img align="right" width="330" height="200" alt="GIF" src="https://giffiles.alphacoders.com/610/61072.gif"/>
 
 - 🌸 Primarily known as Lily.
 - 💡 Passionate about learning new skills and putting them to use.
