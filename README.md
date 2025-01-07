@@ -6,7 +6,7 @@
 - 🌸 Primarily known as Lily.
 - 📚 Software Development Student
 - 💡 Passionate about learning new skills and putting them to use.
-- 📍 Somewhere cosy, sipping tea and reading books.
+- 📍 Somewhere cozy, sipping tea and reading books.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
