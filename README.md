@@ -3,9 +3,8 @@
 <div style="overflow: hidden;">
     <img align="right" width="400" height="300" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" alt="ERROR">
 
-- 👩🏻‍💻 Software Developer
 - 🌸 Primarily known as Lily.
-- 💡 Passionate about learning new skills and putting them to use.
+- 💡 Passionate about learning new skills.
 - 📍 Somewhere cozy, sipping tea and reading books.
 
 ### Skills
