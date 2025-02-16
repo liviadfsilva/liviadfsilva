@@ -7,7 +7,7 @@
 - 💡 Passionate about learning new skills.
 - 📍 Somewhere cozy, sipping tea and reading books.
 
-## Skills
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 <!---
