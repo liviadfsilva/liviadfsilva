@@ -5,7 +5,7 @@
 
 - 🌸 Primarily known as Lily.
 - 👩🏻‍💻 Software development enthusiast.
-- 💡 Passionate about learning new skills and putting them to use.
+- 💡 Passionate about learning new skills.
 - 📍 Somewhere cozy, sipping tea and reading books.
 
 ### Skills
