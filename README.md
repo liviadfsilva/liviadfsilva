@@ -1,10 +1,10 @@
 ## Hi, there! 💋
 
 <div style="overflow: hidden;">
-    <img align="right" width="450" height="300" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" alt="ERROR">
+    <img align="right" width="400" height="300" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" alt="ERROR">
 
+- 👩🏻‍💻 Software Developer
 - 🌸 Primarily known as Lily.
-- 📚 Software Developer
 - 💡 Passionate about learning new skills and putting them to use.
 - 📍 Somewhere cozy, sipping tea and reading books.
 
