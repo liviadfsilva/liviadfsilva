@@ -4,7 +4,7 @@
     <img align="right" width="400" height="400" alt="GIF" src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format" alt="ERROR">
 
 - 🌸 Primarily known as Lily
-- 🐍 Software Developer
+- 👩🏻‍💻 Software Developer
 - 💡 Continuously learning new skills
 - 🪼 Fun fact: I'm madly in love with anything ocean-related
 
