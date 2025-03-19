@@ -4,9 +4,8 @@
     <img align="right" width="400" height="400" alt="GIF" src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format" alt="ERROR">
 
 - 🌸 Primarily known as Lily.
-- 👩🏻‍💻 Software development enthusiast.
 - 💡 Passionate about learning new skills.
-- 📍 Somewhere cozy, sipping tea and reading books.
+- 📍 Somewhere cozy, sipping tea & reading books.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
