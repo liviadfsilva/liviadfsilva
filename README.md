@@ -1,7 +1,6 @@
 # Hi, there! 💋
 
-<div style="overflow: hidden;">
-    <img align="right" width="400" height="400" alt="GIF" src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format" alt="ERROR">
+<img src="https://github.com/user-attachments/assets/d7dd1896-8d36-4853-a205-ecd9d54ef18a" align="right" width=500 height=450 />
 
 - 🌸 Primarily known as Lily
 - 🐛 Software Developer
