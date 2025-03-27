@@ -9,6 +9,7 @@
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 ### Get in Touch
 <a href="https://www.linkedin.com/in/liviadfsilva" target="_blank">
