@@ -8,6 +8,7 @@
 - 🪼 Fun fact: I'm madly in love with anything ocean-related
 
 ### Skills
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
