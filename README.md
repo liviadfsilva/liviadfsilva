@@ -1,6 +1,6 @@
 # Hi, there! 🙃
 
-<img src="https://github.com/user-attachments/assets/d7dd1896-8d36-4853-a205-ecd9d54ef18a" align="right" width=400 height=350 />
+<img src="https://github.com/user-attachments/assets/602a72ba-da6a-4369-8ef8-1e30f25f9759" alt="IMG_6981" align="right" width=600 height=400/>
 
 - 🌸 Primarily known as Lily
 - 🐛 Software Developer
