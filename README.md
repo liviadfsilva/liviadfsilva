@@ -5,7 +5,7 @@
 - 🌸 Primarily known as Lily
 - 🐛 Software Developer
 - 💡 Continuously learning new skills
-- 🏛️ Fun fact: I'm a lover of Greek mythology.
+- 🏛️ Fun fact: I'm a lover of Greek mythology
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
