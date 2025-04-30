@@ -2,9 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/602a72ba-da6a-4369-8ef8-1e30f25f9759" alt="IMG_6981" align="right" width=500 height=300/>
 
-- 🌸 Primarily known as Lily
+- 🌙 Primarily known as Lily
 - 🐛 Software Developer
-- 💡 Continuously learning new skills
+- 🧠 Continuously learning new skills
 - 🏛️ Fun fact: I'm a lover of Greek mythology
 
 ### Skills
