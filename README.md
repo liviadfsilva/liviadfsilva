@@ -15,9 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### Get in Touch
-<a href="https://www.linkedin.com/in/liviadfsilva" target="_blank">
-  <img align="left" alt="Livia's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
-</a>
+<a href="https://www.linkedin.com/in/liviadfsilva" target="_blank"><img alt="Livia's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>
 
 <br>
 <br>
