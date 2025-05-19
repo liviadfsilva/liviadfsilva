@@ -19,12 +19,9 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviadfsilva&show_icons=true&theme=omni"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadfsilva&layout=compact&langs_count=6&theme=omni"/>
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=liviadfsilva&custom_title=GitHub%20Stats&rank_icon=github&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=FEBBCC&icon_color=FFF5F0&text_color=9198a1&bg_color=0d1117"/>&nbsp;
+    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadfsilva&hide=css&layout=compact&langs_count=6&count_private=true&hide_border=true&title_color=FEBBCC&icon_color=4682B4&text_color=9198a1&bg_color=0d1117"/>
 </p>
 <!---
 liviadfsilva/liviadfsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
