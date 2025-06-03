@@ -8,11 +8,13 @@
 - 🏛️ Fun fact: I'm a lover of Greek mythology
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
 ### Get in Touch
 <a href="https://www.linkedin.com/in/liviadfsilva" target="_blank"><img alt="Livia's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>
