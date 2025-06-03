@@ -9,6 +9,10 @@
 
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=css,flask,html,javascript,postman,python,react,tailwind&perline=4)](https://skillicons.dev)
+
+<br>
+
 ### Get in Touch
 <a href="https://www.linkedin.com/in/liviadfsilva" target="_blank"><img alt="Livia's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>
 
