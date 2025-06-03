@@ -7,6 +7,8 @@
 - 🌀 Continuously learning new skills
 - 🏛️ Fun fact: I'm a lover of Greek mythology
 
+<br>
+
 ### Get in Touch
 <a href="https://www.linkedin.com/in/liviadfsilva" target="_blank"><img alt="Livia's LinkedIn" width="46px" src="https://github.com/user-attachments/assets/b072af60-d4c9-4253-b77d-7557bba9ea08"/></a>
 
