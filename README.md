@@ -9,7 +9,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=django,docker,flask,postgresql,postman,python&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,django,docker,dotnet,flask,postgresql,postman,python&perline=5)](https://skillicons.dev)
 
 <br>
 <br>
