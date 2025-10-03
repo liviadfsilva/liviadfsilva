@@ -1,6 +1,6 @@
 # Hi, there! 🙃
 
-<img src="https://github.com/user-attachments/assets/602a72ba-da6a-4369-8ef8-1e30f25f9759" alt="IMG_6981" align="right" width=500 height=300/>
+<img src="https://s3.ezgif.com/tmp/ezgif-3d9aebcc20b1d5.gif" alt="IMG_6981" align="right" width=450 height=250/>
 
 - 🩷 Primarily known as Lily
 - 🐛 Software Developer
