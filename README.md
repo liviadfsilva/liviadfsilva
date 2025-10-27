@@ -10,4 +10,4 @@ Throughout my developer journey, I've created projects focused on real-world sce
 
 Having a background in psychoanalysis has helped me strengthen my analytical thinking and approach complex systems with a curiosity to both learn and better understand things.
 
-Aside from coding, among my favourite things are books, cats and yoga.
+Some of my favourite things are books, cats, and yoga.
