@@ -1,6 +1,6 @@
 # 👋🏻 Hi, there!
 
-I'm Lily, a software developer passionate about designing and building systems.
+I'm Lily, a software developer passionate about designing and building backend systems.
 
 > One breath at a time.
 
