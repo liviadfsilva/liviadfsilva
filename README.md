@@ -16,8 +16,10 @@ Some of my favourite things in life are books, cats, and yoga.
 
 ![Django](https://img.shields.io/badge/Django-113628.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-039185.svg?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/Mongo-darkgreen.svg?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=00BFFF)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 ![Postgres](https://img.shields.io/badge/Postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
