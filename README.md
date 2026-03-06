@@ -12,7 +12,7 @@ Having a background in psychoanalysis has helped me strengthen my analytical thi
 
 Some of my favourite things in life are books, cats, and yoga.
 
-# 👩🏻‍💻 Tech Stack
+# 💻 Tech Stack
 
 ![Django](https://img.shields.io/badge/Django-113628.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
