@@ -1,30 +1,8 @@
-# 👋🏻 Hi, there!
+### About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=dd6981&background=F29FFF00&width=500&height=30&lines=Hello,+World!+✨;+I'm+Lily+🩷;I'm+a+Software+Developer+👩🏻‍💻;I+love+designing+and+learning+new+things+🤓;When+I'm+not+coding,+I'm+reading+📚)](https://git.io/typing-svg)
 
-I'm Lily, a software developer passionate about designing and building backend systems.
+I'm a `Software Developer` and `Computer Science Major` passionate about building backend systems.
 
-> One breath at a time.
+</br>
 
-# 🌙 About Me
-
-Throughout my developer journey, I've created projects focused on real-world scenarios, combining modern frameworks and technologies to build efficient, scalable APIs.
-
-Having a background in psychoanalysis has helped me strengthen my analytical thinking and approach complex systems with a curiosity to both learn and better understand things.
-
-Some of my favourite things in life are books, cats, and yoga.
-
-# 💻 Tech Stack
-
-![Django](https://img.shields.io/badge/Django-113628.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-039185.svg?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-grey.svg?style=for-the-badge&logo=kotlin&logoColor=a429e6)
-![MongoDB](https://img.shields.io/badge/Mongo-darkgreen.svg?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-grey.svg?style=for-the-badge&logo=mysql&logoColor=00BFFF)
-![Notion](https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
-![Postgres](https://img.shields.io/badge/Postgres-grey.svg?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Spring](https://img.shields.io/badge/Spring-FFFFFF.svg?style=for-the-badge&logo=spring&logoColor=green)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+--- 
