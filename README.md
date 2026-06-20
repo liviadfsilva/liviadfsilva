@@ -1,9 +1,15 @@
-### About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=dd6981&background=F29FFF00&width=500&height=30&lines=Hello,+World!+✨;+I'm+Lily+🩷;I'm+a+Software+Developer+👩🏻‍💻;I+love+designing+and+learning+new+things+🤓;When+I'm+not+coding,+I'm+reading+📚)](https://git.io/typing-svg)
+<img src="assets/daijin.jpg" width="350" alt="Daijin from Suzume" align="left"/>
 
-I'm a `Software Developer` and `Computer Science Major` passionate about building backend systems.
+<div align="justify">
 
-</br>
+  ### About Me
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=dd6981&background=F29FFF00&width=500&height=30&lines=Hello,+World!+✨;+I'm+Lily+🩷;I'm+a+Software+Developer+👩🏻‍💻;I+love+designing+and+learning+new+things+🤓;When+I'm+not+coding,+I'm+reading+📚)](https://git.io/typing-svg)
+  
+  I'm a `Software Developer` and `Computer Science Major` passionate about building backend systems. I'm pretty curious about the way things work, which often leads me to learning new things before putting them into practise. My creativity is endless and I always have new ideas for projects in mind. 
+
+</div>
+<br/>
 
 --- 
 
