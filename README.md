@@ -24,6 +24,7 @@ I'm a `Software Developer` and `Computer Science Major` passionate about buildin
   <img alt="Mongo DB Badge" src="https://img.shields.io/badge/MongoDB-FFD9DA?style=for-the-badge&logo=mongodb&logoColor=dd6981">
   <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-FFD9DA?style=for-the-badge&logo=mysql&logoColor=dd6981">
   <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/Postgres-FFD9DA?style=for-the-badge&logo=postgresql&logoColor=dd6981">
+  <img alt="SQLite Badge" src="https://img.shields.io/badge/SQLite-FFD9DA?style=for-the-badge&logo=sqlite&logoColor=dd6981">
   <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-FFD9DA?style=for-the-badge&logo=jsonwebtokens&logoColor=dd6981">
 
 ### Tools
