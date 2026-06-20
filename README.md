@@ -1,4 +1,4 @@
-<img src="assets/daijin.jpg" width="350" alt="Daijin from Suzume" align="left"/>
+<img src="assets/daijin.jpg" width="250" alt="Daijin from Suzume" align="left"/>
 
 <div align="justify">
 
