@@ -58,3 +58,19 @@
     src="https://raw.githubusercontent.com/liviadfsilva/liviadfsilva/output/pacman-contribution-graph.svg"
   >
 </picture>
+
+---
+
+<div align="center">
+
+  ### Let's connect!
+
+  <a href="mailto:liviadfsilva@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/email-FFD9DA?style=for-the-badge&logo=email&logoColor=dd6981"/>
+  <a/>
+
+  <a href="https://www.linkedin.com/in/liviadfsilva/">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-FFD9DA?style=for-the-badge&logo=linkedin&logoColor=dd6981"/>
+  <a/>
+  
+</div>
