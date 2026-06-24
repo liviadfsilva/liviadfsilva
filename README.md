@@ -36,6 +36,7 @@
   <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-FFD9DA?style=for-the-badge&logo=jsonwebtokens&logoColor=dd6981">
 
 ### Tools
+  <img alt="Git Badge" src="https://img.shields.io/badge/Git-dd6981?style=for-the-badge&logo=git&logoColor=FFD9DA">
   <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-dd6981?style=for-the-badge&logo=docker&logoColor=FFD9DA">
   <img alt="Github Badge" src="https://img.shields.io/badge/Github-dd6981?style=for-the-badge&logo=github&logoColor=FFD9DA">
   <img alt="Notion Badge" src="https://img.shields.io/badge/Notion-dd6981?style=for-the-badge&logo=notion&logoColor=FFD9DA">
