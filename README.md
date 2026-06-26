@@ -29,6 +29,7 @@
   </br>
   <img alt="Flask Badge" src="https://img.shields.io/badge/Flask-FFD9DA?style=for-the-badge&logo=flask&logoColor=dd6981">
   <img alt="Flyway Badge" src="https://img.shields.io/badge/Flyway-FFD9DA?style=for-the-badge&logo=flyway&logoColor=dd6981">
+  <img alt="Kotlin Badge" src="https://img.shields.io/badge/Kotlin-FFD9DA?style=for-the-badge&logo=kotlin&logoColor=dd6981">
   <img alt="Mongo DB Badge" src="https://img.shields.io/badge/MongoDB-FFD9DA?style=for-the-badge&logo=mongodb&logoColor=dd6981">
   <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-FFD9DA?style=for-the-badge&logo=mysql&logoColor=dd6981">
   <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/Postgres-FFD9DA?style=for-the-badge&logo=postgresql&logoColor=dd6981">
