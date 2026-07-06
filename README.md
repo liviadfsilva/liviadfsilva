@@ -28,12 +28,12 @@
   <img alt="Fast API Badge" src="https://img.shields.io/badge/Fast API-FFD9DA?style=for-the-badge&logo=fastapi&logoColor=dd6981">
   </br>
   <img alt="Flask Badge" src="https://img.shields.io/badge/Flask-FFD9DA?style=for-the-badge&logo=flask&logoColor=dd6981">
+  <img alt="C# Badge" src="https://img.shields.io/badge/C%23-FFD9DA?style=for-the-badge&logo=unity&logoColor=dd6981">
+  <img alt="C# Badge" src="https://img.shields.io/badge/-.NET-FFD9DA?style=for-the-badge&logo=dotnet&logoColor=dd6981">
+  <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-FFD9DA?style=for-the-badge&logo=jsonwebtokens&logoColor=dd6981">
   <img alt="Flyway Badge" src="https://img.shields.io/badge/Flyway-FFD9DA?style=for-the-badge&logo=flyway&logoColor=dd6981">
   <img alt="Mongo DB Badge" src="https://img.shields.io/badge/MongoDB-FFD9DA?style=for-the-badge&logo=mongodb&logoColor=dd6981">
-  <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-FFD9DA?style=for-the-badge&logo=mysql&logoColor=dd6981">
   <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/Postgres-FFD9DA?style=for-the-badge&logo=postgresql&logoColor=dd6981">
-  <img alt="SQLite Badge" src="https://img.shields.io/badge/SQLite-FFD9DA?style=for-the-badge&logo=sqlite&logoColor=dd6981">
-  <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-FFD9DA?style=for-the-badge&logo=jsonwebtokens&logoColor=dd6981">
 
 ### Tools
   <img alt="Git Badge" src="https://img.shields.io/badge/Git-dd6981?style=for-the-badge&logo=git&logoColor=FFD9DA">
