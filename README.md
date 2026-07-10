@@ -25,11 +25,9 @@
   <img alt="Maven Badge" src="https://img.shields.io/badge/Maven-FFD9DA?style=for-the-badge&logo=apachemaven&logoColor=dd6981">
   <img alt="Python Badge" src="https://img.shields.io/badge/Python-FFD9DA?style=for-the-badge&logo=python&logoColor=dd6981">
   <img alt="Django Badge" src="https://img.shields.io/badge/Django-FFD9DA?style=for-the-badge&logo=django&logoColor=dd6981">
-  <img alt="Fast API Badge" src="https://img.shields.io/badge/Fast API-FFD9DA?style=for-the-badge&logo=fastapi&logoColor=dd6981">
   </br>
+  <img alt="Fast API Badge" src="https://img.shields.io/badge/Fast API-FFD9DA?style=for-the-badge&logo=fastapi&logoColor=dd6981">
   <img alt="Flask Badge" src="https://img.shields.io/badge/Flask-FFD9DA?style=for-the-badge&logo=flask&logoColor=dd6981">
-  <img alt="C# Badge" src="https://img.shields.io/badge/C%23-FFD9DA?style=for-the-badge&logo=unity&logoColor=dd6981">
-  <img alt="C# Badge" src="https://img.shields.io/badge/-.NET-FFD9DA?style=for-the-badge&logo=dotnet&logoColor=dd6981">
   <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-FFD9DA?style=for-the-badge&logo=jsonwebtokens&logoColor=dd6981">
   <img alt="Flyway Badge" src="https://img.shields.io/badge/Flyway-FFD9DA?style=for-the-badge&logo=flyway&logoColor=dd6981">
   <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-FFD9DA?style=for-the-badge&logo=mysql&logoColor=dd6981">
