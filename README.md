@@ -4,7 +4,7 @@
 
   ### About Me
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=dd6981&background=F29FFF00&width=500&height=30&lines=Hello,+World!+✨;+I'm+Lily+🩷;I'm+a+Software+Developer+👩🏻‍💻;I+love+designing+and+learning+new+things+🤓;When+I'm+not+coding,+I'm+reading+📚)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=DC143C&background=F29FFF00&width=500&height=30&lines=Hello,+World!+✨;+I'm+Lily+🩷;I'm+a+Software+Developer+👩🏻‍💻;I+love+designing+and+learning+new+things+🤓;When+I'm+not+coding,+I'm+reading+📚)](https://git.io/typing-svg)
   
   I'm a `Software Developer` and `Computer Science Major` passionate about building back-end systems. I'm very fond of challenging myself by learning how things work and putting my knowledge into practise. Challenging myself in creative ways is what I do best! My #1 goal is to become excellent at what I do while remaining aware that I'm a constant work in progress.
 
@@ -71,11 +71,11 @@
   ### Let's connect!
 
   <a href="mailto:liviadfsilva@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/email-FFD9DA?style=for-the-badge&logo=email&logoColor=dd6981"/>
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/email-DC143C?style=for-the-badge&logo=email&logoColor=DC143C"/>
   <a/>
 
   <a href="https://www.linkedin.com/in/liviadfsilva/">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-FFD9DA?style=for-the-badge&logo=linkedin&logoColor=dd6981"/>
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
   <a/>
   
 </div>
