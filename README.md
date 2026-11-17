@@ -1,4 +1,4 @@
-<img src="assets/masked.png" width="200" alt="Daijin from Suzume" align="left"/>
+<img src="assets/masked-slashers.png" width="200" alt="Daijin from Suzume" align="left"/>
 
 <div align="justify">
 
@@ -11,7 +11,8 @@
   ###### Never become, always becoming.
 
 </div>
-<br/>
+
+---
 
 <!--
 
